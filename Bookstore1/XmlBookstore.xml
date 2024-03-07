@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+	<book name="Портрет Дориана Грея">
+		<author>Оскар Уайлд</author>
+		<price>219</price>
+		<company>Neoclassic</company>
+		<id>2592760</id>
+	</book>
+	<book name="Мастер и Маргарита">
+		<author>Михаил Булгаков</author>
+		<price>219</price>
+		<company>Neoclassic</company>
+		<id>2926100</id>
+   </book>
+	<book name="1984">
+		<author>Джордж Оруэлл</author>
+		<price>259</price>
+		<company>Neoclassic</company>
+		<id>2918634</id>
+	</book>
+	<hobby name="Бабочки">
+		<company>Алиса</company>
+		<price>319</price>
+		<description>Набор для вышивания крестом</description>
+		<id>3012080</id>
+	</hobby>
+	<hobby name="Корги">
+		<company>Red Panda</company>
+		<price>449</price>
+		<description>Картина по номерам</description>
+		<id>3008731</id>
+	</hobby>
+	<hobby name="Звёздная ночь">
+		<company>Cristyle</company>
+		<price>940</price>
+		<description>Алмазная мозаика</description>
+		<id>1234567</id>
+	</hobby>
+</books>
+
